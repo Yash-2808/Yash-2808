@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **yashshri682@gmail.com**
 
-- 📄 Know about my experiences <a href="(https://github.com/Yash-2808/RESUME/blob/main/Yash_Srivastava_Resume.pdf)">Click here</a>
+- 📄 Know about my experiences <a href="https://github.com/Yash-2808/RESUME/blob/main/Yash_Srivastava_Resume.pdf">Click here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
