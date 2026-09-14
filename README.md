@@ -42,6 +42,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yash-2808&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+---
+
 ### 💻 Tech Stack & Skills
 
 <div align="center">
@@ -129,10 +137,39 @@
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 📊 GitHub Activity & Analytics Dashboard
 
 <div align="center">
+
+  <!-- Stats & Languages Table -->
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=yash-2808&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-2808&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=yash-2808&theme=tokyonight&background=0d1117&hide_border=true" width="97%" alt="GitHub Streak Stats Dark" />
+
+  <br/><br/>
+
+  <!-- Snake Contribution Animation -->
+  <h4>🐍 Contribution Snake Animation</h4>
+  <img src="https://raw.githubusercontent.com/Yash-2808/Yash-2808/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation Dark" />
+
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <h4>📈 Activity Graph</h4>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-2808&theme=tokyonight&bg_color=0d1117&hide_border=true" width="97%" alt="Activity Graph" />
+
 </div>
 
 ---
