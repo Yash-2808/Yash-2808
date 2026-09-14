@@ -1,30 +1,26 @@
 <div align="center">
 
+  <!-- Responsive Dark Typing Header -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&background=0D111700&center=true&vcenter=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Yash+Srivastava;AI%2FML+%26+Full-Stack+Developer;Agentic+AI+%26+Deep+Learning;B.Tech+CSE+(AI%2FML)+%40+VIT" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>AI/ML Undergraduate | Full-Stack Developer | Problem Solver</b>
+    <b><font color="#7aa2f7">AI/ML Undergraduate</font> | <font color="#bb9af7">Full-Stack Developer</font> | <font color="#7dcfff">Problem Solver</font></b>
   </p>
 
+  <!-- Dark Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Yash-2808&label=VIEWS&color=1f2335&style=flat-square" alt="Profile Views" />
-
-```
-<a href="https://github.com/Yash-2808/RESUME/blob/main/Yash_Srivastava_Resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-PDF-7aa2f7?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
-</a>
-
-<a href="mailto:yashshri682@gmail.com">
-  <img src="https://img.shields.io/badge/Email-yashshri682%40gmail.com-f7768e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://linkedin.com/in/yash-srivastava-20b710291">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-7dcfff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-```
-
+    <img src="https://komarev.com/ghpvc/?username=yash-2808&label=VIEWS&color=1f2335&style=flat-square" alt="Profile Views" />
+    <a href="https://github.com/Yash-2808/RESUME/blob/main/Yash_Srivastava_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-PDF-7aa2f7?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    </a>
+    <a href="mailto:yashshri682@gmail.com">
+      <img src="https://img.shields.io/badge/Email-yashshri682%40gmail.com-f7768e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/yash-srivastava" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-7dcfff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
   </p>
 
 </div>
@@ -35,24 +31,21 @@
 
 > 💡 *"Passionate about bridging intelligent Machine Learning models with sleek, robust full-stack web applications."*
 
-* 🎓 **Education:** Pursuing B.Tech in CSE (AI/ML) at **Vellore Institute of Technology** *(CGPA: **8.98**)*.
-* 🤖 **Focus Areas:** Deep Learning, Agentic AI, LLMs, Computer Vision, & Cloud REST APIs.
-* 🛠️ **Key Projects:**
-
-  * 🧠 **[Code Reviewer AI](https://github.com/Yash-2808/Code-Reviwer-AI):** Full-stack AI code analyzer with Google Gemini API.
-  * 🚗 **[DriverGuard AI](https://github.com/Yash-2808/Distracted-Driver-Detection-using-deep-learning):** Real-time driver distraction detection (**96% accuracy**).
-  * 📊 **[Chemical Visualizer](https://github.com/Yash-2808/Chemical-Equipment-Parameter-Visualizer):** Django & React CSV parameter analytics dashboard.
-* 💼 **Experience:** Former Web Dev Intern at **Ramaya Group** & Core Member at **UX Club VIT Bhopal**.
-* 📜 **Certifications:** Cognizant Agentic AI, University of Michigan Applied ML, AWS Technical Essentials, NPTEL Cloud Computing (**Elite 82%**).
+- 🎓 **Education:** Pursuing B.Tech in CSE (AI/ML) at **Vellore Institute of Technology** *(CGPA: **8.98**)*.
+- 🤖 **Focus Areas:** Deep Learning, Agentic AI, LLMs, Computer Vision, & Cloud REST APIs.
+- 🛠️ **Key Projects:** 
+  - 🧠 **[Code Reviewer AI](https://github.com/Yash-2808/Code-Reviwer-AI):** Full-stack AI code analyzer with Google Gemini API.
+  - 🚗 **[DriverGuard AI](https://github.com/Yash-2808/Distracted-Driver-Detection-using-deep-learning):** Real-time driver distraction detection (**96% accuracy**).
+  - 📊 **[Chemical Visualizer](https://github.com/Yash-2808/Chemical-Equipment-Parameter-Visualizer):** Django & React CSV parameter analytics dashboard.
+- 💼 **Experience:** Former Web Dev Intern at **Ramaya Group** & Core Member at **UX Club VIT Bhopal**.
+- 📜 **Certifications:** Cognizant Agentic AI, Uni. of Michigan Applied ML, AWS Tech Essentials, NPTEL Cloud Computing (**Elite 82%**).
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Yash-2808&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=yash-2808&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -62,36 +55,28 @@
 <div align="center">
 
 #### 🧠 AI / ML & Data Science
-
-![Python](https://img.shields.io/badge/Python-1f2335?style=flat-square\&logo=python\&logoColor=38BDF8)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1f2335?style=flat-square\&logo=tensorflow\&logoColor=FF6F00)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1f2335?style=flat-square\&logo=scikit-learn\&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-1f2335?style=flat-square\&logo=pandas\&logoColor=150458)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1f2335?style=flat-square\&logo=huggingface\&logoColor=FFD21E)
-![LLMs](https://img.shields.io/badge/LLMs-1f2335?style=flat-square\&logo=openai\&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-1f2335?style=flat-square\&logo=googlegemini\&logoColor=8E7CC3)
-![Gemini API](https://img.shields.io/badge/Gemini_API-1f2335?style=flat-square\&logo=googlegemini\&logoColor=8E7CC3)
+![Python](https://img.shields.io/badge/Python-1f2335?style=flat-square&logo=python&logoColor=38BDF8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1f2335?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1f2335?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-1f2335?style=flat-square&logo=pandas&logoColor=150458)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1f2335?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![Gemini API](https://img.shields.io/badge/Gemini_API-1f2335?style=flat-square&logo=googlegemini&logoColor=8E7CC3)
 
 #### 🌐 Full-Stack & Backend
-
-![React](https://img.shields.io/badge/React.js-1f2335?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-1f2335?style=flat-square\&logo=nodedotjs\&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-1f2335?style=flat-square\&logo=express\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-1f2335?style=flat-square\&logo=flask\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-1f2335?style=flat-square\&logo=django\&logoColor=092E20)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2335?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React.js-1f2335?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-1f2335?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-1f2335?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1f2335?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1f2335?style=flat-square&logo=django&logoColor=092E20)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2335?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 #### ☁️ Cloud, DB & Tools
-
-![AWS](https://img.shields.io/badge/AWS-1f2335?style=flat-square\&logo=amazonwebservices\&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-1f2335?style=flat-square\&logo=vercel\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-1f2335?style=flat-square\&logo=huggingface\&logoColor=FFD21E)
-![MongoDB](https://img.shields.io/badge/MongoDB-1f2335?style=flat-square\&logo=mongodb\&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2335?style=flat-square\&logo=postgresql\&logoColor=4169E1)
-![SQL](https://img.shields.io/badge/SQL-1f2335?style=flat-square\&logo=postgresql\&logoColor=4169E1)
-![C++](https://img.shields.io/badge/C%2B%2B-1f2335?style=flat-square\&logo=cplusplus\&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-1f2335?style=flat-square\&logo=openjdk\&logoColor=ED8B00)
-![Git](https://img.shields.io/badge/Git-1f2335?style=flat-square\&logo=git\&logoColor=F05032)
+![AWS](https://img.shields.io/badge/AWS-1f2335?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![MongoDB](https://img.shields.io/badge/MongoDB-1f2335?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2335?style=flat-square&logo=postgresql&logoColor=4169E1)
+![C++](https://img.shields.io/badge/C%2B%2B-1f2335?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-1f2335?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Git](https://img.shields.io/badge/Git-1f2335?style=flat-square&logo=git&logoColor=F05032)
 
 </div>
 
@@ -103,154 +88,87 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 Code Reviewer AI</h3>
-
-```
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-1f2335?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Gemini_API-1f2335?style=flat-square&logo=googlegemini&logoColor=8E7CC3" />
-  </p>
-
-  <p>
-    Full-stack AI code analysis platform with automated code evaluation,
-    bug detection and optimization suggestions using Google Gemini API.
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/Yash-2808/Code-Reviwer-AI">
-      <b>View Repository »</b>
-    </a>
-  </p>
-</td>
-
-<td width="50%" valign="top">
-  <h3 align="center">🚗 DriverGuard AI</h3>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/TensorFlow-1f2335?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
-    <img src="https://img.shields.io/badge/Flask-1f2335?style=flat-square&logo=flask&logoColor=white" />
-  </p>
-
-  <p>
-    Real-time driver distraction detection using TensorFlow V7 Plus model
-    with <b>96% accuracy</b> and Flask backend.
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/Yash-2808/Distracted-Driver-Detection-using-deep-learning">
-      <b>View Repository »</b>
-    </a>
-  </p>
-</td>
-```
-
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-1f2335?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Gemini_API-1f2335?style=flat-square&logo=googlegemini&logoColor=8E7CC3" />
+      </p>
+      <p>Full-stack AI code analysis platform with automated code evaluation and debugging using Google Gemini API.</p>
+      <p align="center">
+        <a href="https://github.com/Yash-2808/Code-Reviwer-AI" target="_blank"><b>View Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 DriverGuard AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-1f2335?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+        <img src="https://img.shields.io/badge/Flask-1f2335?style=flat-square&logo=flask&logoColor=white" />
+      </p>
+      <p>Real-time driver distraction detection using TensorFlow V7 Plus model (<b>96% accuracy</b>) with Flask backend.</p>
+      <p align="center">
+        <a href="https://github.com/Yash-2808/Distracted-Driver-Detection-using-deep-learning" target="_blank"><b>View Repository »</b></a>
+      </p>
+    </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📊 Chemical Visualizer</h3>
-
-```
-  <p align="center">
-    <img src="https://img.shields.io/badge/Django-1f2335?style=flat-square&logo=django&logoColor=092E20" />
-    <img src="https://img.shields.io/badge/React-1f2335?style=flat-square&logo=react&logoColor=61DAFB" />
-  </p>
-
-  <p>
-    Hybrid web/desktop CSV chemical equipment parameter analytics suite
-    with Chart.js plots and PyQt5 visualization.
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/Yash-2808/Chemical-Equipment-Parameter-Visualizer">
-      <b>View Repository »</b>
-    </a>
-  </p>
-</td>
-
-<td width="50%" valign="top">
-  <h3 align="center">🛡️ CyberShield AI</h3>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/FastAPI-1f2335?style=flat-square&logo=fastapi&logoColor=009688" />
-    <img src="https://img.shields.io/badge/Python-1f2335?style=flat-square&logo=python&logoColor=3776AB" />
-  </p>
-
-  <p>
-    Behavioral anomaly detection engine for identifying cybersecurity
-    threats in user telemetry data.
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/Yash-2808">
-      <b>View GitHub Profile »</b>
-    </a>
-  </p>
-</td>
-```
-
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django-1f2335?style=flat-square&logo=django&logoColor=092E20" />
+        <img src="https://img.shields.io/badge/React-1f2335?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+      <p>Hybrid web/desktop CSV chemical equipment parameter analytics suite with Chart.js plots and PyQt5 visualization.</p>
+      <p align="center">
+        <a href="https://github.com/Yash-2808/Chemical-Equipment-Parameter-Visualizer" target="_blank"><b>View Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ CyberShield AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-1f2335?style=flat-square&logo=fastapi&logoColor=009688" />
+        <img src="https://img.shields.io/badge/Python-1f2335?style=flat-square&logo=python&logoColor=3776AB" />
+      </p>
+      <p>Behavioral anomaly detection engine for identifying cybersecurity threats in user telemetry data.</p>
+      <p align="center">
+        <a href="https://github.com/Yash-2808" target="_blank"><b>View Repository »</b></a>
+      </p>
+    </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Activity & Analytics Dashboard
 
 <div align="center">
 
+  <!-- Stats & Languages Table -->
   <table border="0">
     <tr>
       <td width="50%">
-
-```
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Yash-2808&show_icons=true&theme=tokyonight&hide_border=true"
-      width="100%"
-      alt="GitHub Stats"
-    />
-
-  </td>
-
-  <td width="50%">
-
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-2808&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-      width="100%"
-      alt="Top Languages"
-    />
-
-  </td>
-</tr>
-```
-
+        <img src="https://github-readme-stats.vercel.app/api?username=yash-2808&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-2808&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
   </table>
 
   <br/>
 
-<img
- src="https://streak-stats.demolab.com/?user=Yash-2808&theme=tokyonight&background=0d1117&hide_border=true"
- width="97%"
- alt="GitHub Streak Stats"
-/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=yash-2808&theme=tokyonight&background=0d1117&hide_border=true" width="97%" alt="GitHub Streak Stats Dark" />
 
-<br/><br/>
+  <br/><br/>
 
+  <!-- Snake Contribution Animation -->
   <h4>🐍 Contribution Snake Animation</h4>
+  <img src="https://raw.githubusercontent.com/Yash-2808/Yash-2808/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation Dark" />
 
-<img
- src="https://raw.githubusercontent.com/Yash-2808/Yash-2808/output/github-contribution-grid-snake-dark.svg"
- width="100%"
- alt="Contribution Snake Animation"
-/>
+  <br/><br/>
 
-<br/><br/>
-
+  <!-- Activity Graph -->
   <h4>📈 Activity Graph</h4>
-
-<img
- src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-2808&theme=tokyonight&bg_color=0d1117&hide_border=true"
- width="97%"
- alt="GitHub Activity Graph"
-/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-2808&theme=tokyonight&bg_color=0d1117&hide_border=true" width="97%" alt="Activity Graph" />
 
 </div>
 
@@ -259,25 +177,16 @@
 ### 📬 Connect & Socials
 
 <div align="center">
-
-  <a href="https://linkedin.com/in/yash-srivastava-20b710291">
+  <a href="https://linkedin.com/in/yash-srivastava" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1f2335?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-
-  <a href="https://leetcode.com/yash-srivastava">
+  <a href="https://leetcode.com/yash-srivastava" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-1f2335?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
-
-  <a href="https://instagram.com/yash_srivastavaa">
+  <a href="https://instagram.com/yash_srivastavaa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-1f2335?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
-
   <a href="mailto:yashshri682@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1f2335?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
-
-  <a href="https://github.com/Yash-2808">
-    <img src="https://img.shields.io/badge/GitHub-1f2335?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
 </div>
