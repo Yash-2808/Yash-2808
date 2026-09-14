@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- 1. Aligned & Vibrant Wavy Header Banner (No Overlap) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=220&section=header&text=Yash%20Srivastava&fontSize=44&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI-ML%20Enthusiast&descAlignY=65&descSize=18" width="100%" alt="Yash Srivastava Header Banner" />
+  <!-- 1. Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b3b98,100:5f27cd&height=220&section=header&text=Yash%20Srivastava&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-ML%20Enthusiast&descAlignY=62&descSize=20&fontColor=ffffff" width="100%" alt="Yash Srivastava Header Banner" />
 
   <!-- 2. Typing SVG Animation -->
   <br/>
@@ -9,9 +9,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Agentic+AI+%26+Deep+Learning;B.Tech+CSE+(AI%2FML)+%40+VIT" alt="Typing Animation" />
   </a>
 
-  <!-- 3. Pixel Coding GIF Animation -->
+  <!-- 3. Original Coding GIF (From your code snippet) -->
   <br/><br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Pixel Coding Animation" />
+  <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width="450" alt="Coding GIF Animation" />
 
   <br/><br/>
 
