@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Responsive Dark Typing Header -->
+  <!-- Live Typing Animation Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&background=0D111700&center=true&vcenter=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Yash+Srivastava;AI%2FML+%26+Full-Stack+Developer;Agentic+AI+%26+Deep+Learning;B.Tech+CSE+(AI%2FML)+%40+VIT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Yash+Srivastava;AI%2FML+%26+Full-Stack+Developer;Agentic+AI+%26+Deep+Learning;B.Tech+CSE+(AI%2FML)+%40+VIT" alt="Typing SVG Animation" />
   </a>
 
   <p align="center">
@@ -23,6 +23,10 @@
     </a>
   </p>
 
+  <!-- Animated Tech Coding GIF Banner -->
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Coding Animation GIF" />
+
 </div>
 
 ---
@@ -39,14 +43,6 @@
   - 📊 **[Chemical Visualizer](https://github.com/Yash-2808/Chemical-Equipment-Parameter-Visualizer):** Django & React CSV parameter analytics dashboard.
 - 💼 **Experience:** Former Web Dev Intern at **Ramaya Group** & Core Member at **UX Club VIT Bhopal**.
 - 📜 **Certifications:** Cognizant Agentic AI, Uni. of Michigan Applied ML, AWS Tech Essentials, NPTEL Cloud Computing (**Elite 82%**).
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yash-2808&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -137,34 +133,37 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics Dashboard
+### 📊 GitHub Activity & Profile Summary
 
 <div align="center">
 
+  <!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-2808&theme=tokyonight" width="97%" alt="Profile Summary" />
+
+  <br/><br/>
+
+  <!-- Stats & Languages Cards Table -->
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=yash-2808&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-2808&theme=tokyonight" width="100%" alt="GitHub Stats Summary" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-2808&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yash-2808&theme=tokyonight" width="100%" alt="Most Committed Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
+  <!-- Streak Stats Card -->
   <img src="https://streak-stats.demolab.com/?user=yash-2808&theme=tokyonight&background=0d1117&hide_border=true" width="97%" alt="GitHub Streak Stats Dark" />
 
   <br/><br/>
 
+  <!-- Live Snake Animation -->
   <h4>🐍 Contribution Snake Animation</h4>
   <img src="https://raw.githubusercontent.com/Yash-2808/Yash-2808/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation Dark" />
-
-  <br/><br/>
-
-  <h4>📈 Activity Graph</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-2808&theme=tokyonight&bg_color=0d1117&hide_border=true" width="97%" alt="Activity Graph" />
 
 </div>
 
