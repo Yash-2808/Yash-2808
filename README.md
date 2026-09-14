@@ -42,14 +42,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yash-2808&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 💻 Tech Stack & Skills
 
 <div align="center">
@@ -145,7 +137,8 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-2808&theme=tokyonight&hide_border=true" width="97%" alt="Contribution Graph" />
+  <h4>📈 Contribution Calendar</h4>
+  <img src="https://ghchart.rshah.org/38BDF8/yash-2808" width="97%" alt="Yash's GitHub Contributions" />
 
 </div>
 
