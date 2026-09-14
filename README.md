@@ -1,25 +1,25 @@
 <div align="center">
 
-  <!-- Responsive Typing Header -->
+  <!-- Responsive Dark Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Yash+Srivastava;AI%2FML+%26+Full-Stack+Developer;Agentic+AI+%26+Deep+Learning;B.Tech+CSE+(AI%2FML)+%40+VIT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&background=0D111700&center=true&vcenter=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Yash+Srivastava;AI%2FML+%26+Full-Stack+Developer;Agentic+AI+%26+Deep+Learning;B.Tech+CSE+(AI%2FML)+%40+VIT" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>AI/ML Undergraduate | Full-Stack Developer | Problem Solver</b>
+    <b><font color="#7aa2f7">AI/ML Undergraduate</font> | <font color="#bb9af7">Full-Stack Developer</font> | <font color="#7dcfff">Problem Solver</font></b>
   </p>
 
-  <!-- Badges -->
+  <!-- Dark Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yash-2808&label=VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=yash-2808&label=VIEWS&color=1f2335&style=flat-square" alt="Profile Views" />
     <a href="https://github.com/Yash-2808/RESUME/blob/main/Yash_Srivastava_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Resume-PDF-ff69b4?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+      <img src="https://img.shields.io/badge/Resume-PDF-7aa2f7?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
     </a>
     <a href="mailto:yashshri682@gmail.com">
-      <img src="https://img.shields.io/badge/Email-yashshri682%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-yashshri682%40gmail.com-f7768e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/yash-srivastava" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-7dcfff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
@@ -47,28 +47,28 @@
 <div align="center">
 
 #### 🧠 AI / ML & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E7CC3?style=flat-square&logo=googlegemini&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1f2335?style=flat-square&logo=python&logoColor=38BDF8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1f2335?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1f2335?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-1f2335?style=flat-square&logo=pandas&logoColor=150458)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1f2335?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![Gemini API](https://img.shields.io/badge/Gemini_API-1f2335?style=flat-square&logo=googlegemini&logoColor=8E7CC3)
 
 #### 🌐 Full-Stack & Backend
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React.js-1f2335?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-1f2335?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-1f2335?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1f2335?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1f2335?style=flat-square&logo=django&logoColor=092E20)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2335?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 #### ☁️ Cloud, DB & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1f2335?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![MongoDB](https://img.shields.io/badge/MongoDB-1f2335?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2335?style=flat-square&logo=postgresql&logoColor=4169E1)
+![C++](https://img.shields.io/badge/C%2B%2B-1f2335?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-1f2335?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Git](https://img.shields.io/badge/Git-1f2335?style=flat-square&logo=git&logoColor=F05032)
 
 </div>
 
@@ -81,8 +81,8 @@
     <td width="50%" valign="top">
       <h3 align="center">🤖 Code Reviewer AI</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Gemini_API-8E7CC3?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-1f2335?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Gemini_API-1f2335?style=flat-square&logo=googlegemini&logoColor=8E7CC3" />
       </p>
       <p>Full-stack AI code analysis platform with automated code evaluation and debugging using Google Gemini API.</p>
       <p align="center">
@@ -92,8 +92,8 @@
     <td width="50%" valign="top">
       <h3 align="center">🚗 DriverGuard AI</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-1f2335?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+        <img src="https://img.shields.io/badge/Flask-1f2335?style=flat-square&logo=flask&logoColor=white" />
       </p>
       <p>Real-time driver distraction detection using TensorFlow V7 Plus model (<b>96% accuracy</b>) with Flask backend.</p>
       <p align="center">
@@ -105,8 +105,8 @@
     <td width="50%" valign="top">
       <h3 align="center">📊 Chemical Visualizer</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Django-1f2335?style=flat-square&logo=django&logoColor=092E20" />
+        <img src="https://img.shields.io/badge/React-1f2335?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
       <p>Hybrid web/desktop CSV chemical equipment parameter analytics suite with Chart.js plots and PyQt5 visualization.</p>
       <p align="center">
@@ -116,8 +116,8 @@
     <td width="50%" valign="top">
       <h3 align="center">🛡️ CyberShield AI</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-1f2335?style=flat-square&logo=fastapi&logoColor=009688" />
+        <img src="https://img.shields.io/badge/Python-1f2335?style=flat-square&logo=python&logoColor=3776AB" />
       </p>
       <p>Behavioral anomaly detection engine for identifying cybersecurity threats in user telemetry data.</p>
       <p align="center">
@@ -133,12 +133,17 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=yash-2808&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=yash-2808&theme=tokyonight&background=0d1117&hide_border=true" width="97%" alt="GitHub Streak Stats Dark" />
 
   <br/><br/>
 
-  <h4>📈 Contribution Calendar</h4>
-  <img src="https://ghchart.rshah.org/38BDF8/yash-2808" width="97%" alt="Yash's GitHub Contributions" />
+  <h4>🐍 Contribution Snake Animation (Dark Mode)</h4>
+  <img src="https://raw.githubusercontent.com/Yash-2808/Yash-2808/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation Dark" />
+
+  <br/><br/>
+
+  <h4>📈 Activity Graph (Dark Theme)</h4>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-2808&theme=tokyonight&bg_color=0d1117&hide_border=true" width="97%" alt="Yash's Dark Activity Graph" />
 
 </div>
 
@@ -148,15 +153,15 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/yash-srivastava" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-1f2335?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/yash-srivastava" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-1f2335?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
   <a href="https://instagram.com/yash_srivastavaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-1f2335?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
   <a href="mailto:yashshri682@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-1f2335?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
 </div>
