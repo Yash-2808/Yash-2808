@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- 1. Fixed GitHub Camo-Compatible Wavy Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yash%20Srivastava&fontSize=45&animation=fadeIn&desc=Full%20Stack%20Developer%20and%20AI-ML%20Enthusiast" width="100%" alt="Yash Srivastava Header Banner" />
+  <!-- 1. Header Banner (Explicit Pure White Name Text) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b3b98,100:5f27cd&height=220&section=header&text=Yash%20Srivastava&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-ML%20Enthusiast&descAlignY=62&descSize=20&fontColor=ffffff" width="100%" alt="Yash Srivastava Header Banner" />
 
-  <!-- 2. Typing SVG Animation -->
+  <!-- 2. Typing SVG Animation (Cyan Text) -->
   <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Agentic+AI+%26+Deep+Learning;B.Tech+CSE+(AI%2FML)+%40+VIT" alt="Typing Animation" />
