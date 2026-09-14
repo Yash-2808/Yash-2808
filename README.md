@@ -1,26 +1,38 @@
-<h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
-<h3 align="center">A passionate FullStack developer and AI/ML Enthusiast.</h3>
-<image align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.fce4042b852965b966f94f40cbaef4b8?r=0&pid=1.7&rurl=https%3a%2f%2fmedia.tenor.com%2f-UygBh3nnfEAAAAC%2fcoding.gif&ehk=1hCg9lh%2frRFpQV2WDVtJadQ09wOujqgpnEJ6uI%2fzEdE%3d">
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-2808&label=Profile%20views&color=0e75b6&style=flat" alt="yash-2808" /> </p>
+<div align="center">
 
-- 📫 How to reach me **yashshri682@gmail.com**
+  <!-- Typing Header SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=750&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Yash+Srivastava;AI%2FML+Undergraduate+%26+Full-Stack+Developer;Building+Agentic+AI+%26+Deep+Learning+Solutions;B.Tech+CSE+(AI%2FML)+%40+VIT+(CGPA+8.98)" alt="Typing SVG" />
+  </a>
 
-- 📄 Know about my experiences <a href="https://github.com/Yash-2808/RESUME/blob/main/Yash_Srivastava_Resume.pdf">Click here</a>
+  <p align="center">
+    <b>AI/ML Enthusiast | Full-Stack Developer | Problem Solver</b>
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash srivastava" height="30" width="40" /></a>
-<a href="https://instagram.com/yash_srivastavaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_srivastavaa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yash srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash srivastava" height="30" width="40" /></a>
-</p>
+  <!-- Profile View & Status Badges -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=yash-2808&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/Yash-2808/RESUME/blob/main/Yash_Srivastava_Resume.pdf">
+      <img src="https://img.shields.io/badge/Resume-PDF-ff69b4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    </a>
+    <a href="mailto:yashshri682@gmail.com">
+      <img src="https://img.shields.io/badge/Email-yashshri682%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/yash-srivastava">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+  <!-- Hero Banner GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding GIF Animation" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-2808&show_icons=true&locale=en&layout=compact" alt="yash-2808" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-2808&show_icons=true&locale=en" alt="yash-2808" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-2808&" alt="yash-2808" /></p>
+---
 
+### 👤 About Me
+
+```text
+💡 "Passionate about bridging intelligent Machine Learning models with sleek, robust full-stack web applications."
