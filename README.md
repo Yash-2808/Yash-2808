@@ -1,15 +1,21 @@
 <div align="center">
 
-  <!-- Live Typing Animation Header -->
+  <!-- 1. Wavy Header Banner (Capsule Render) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e7cc3&height=220&section=header&text=Yash%20Srivastava&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI%2FML%20Enthusiast&descAlignY=60&descSize=20" width="100%" alt="Header Banner" />
+
+  <!-- 2. Typing SVG Animation -->
+  <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Yash+Srivastava;AI%2FML+%26+Full-Stack+Developer;Agentic+AI+%26+Deep+Learning;B.Tech+CSE+(AI%2FML)+%40+VIT" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Agentic+AI+%26+Deep+Learning;B.Tech+CSE+(AI%2FML)+%40+VIT" alt="Typing Animation" />
   </a>
 
-  <p align="center">
-    <b><font color="#7aa2f7">AI/ML Undergraduate</font> | <font color="#bb9af7">Full-Stack Developer</font> | <font color="#7dcfff">Problem Solver</font></b>
-  </p>
+  <!-- 3. Pixel Coding GIF Animation (From Screenshot) -->
+  <br/><br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Pixel Coding Animation" />
 
-  <!-- Dark Badges -->
+  <br/><br/>
+
+  <!-- 4. Profile Views & Action Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=yash-2808&label=VIEWS&color=1f2335&style=flat-square" alt="Profile Views" />
     <a href="https://github.com/Yash-2808/RESUME/blob/main/Yash_Srivastava_Resume.pdf" target="_blank">
@@ -22,10 +28,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-7dcfff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
-
-  <!-- Animated Tech Coding GIF Banner -->
-  <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Coding Animation GIF" />
 
 </div>
 
