@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- 1. Wavy Header Banner (Capsule Render) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e7cc3&height=220&section=header&text=Yash%20Srivastava&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI%2FML%20Enthusiast&descAlignY=60&descSize=20" width="100%" alt="Header Banner" />
+  <!-- 1. Fixed GitHub Camo-Compatible Wavy Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yash%20Srivastava&fontSize=45&animation=fadeIn&desc=Full%20Stack%20Developer%20and%20AI-ML%20Enthusiast" width="100%" alt="Yash Srivastava Header Banner" />
 
   <!-- 2. Typing SVG Animation -->
   <br/>
@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Agentic+AI+%26+Deep+Learning;B.Tech+CSE+(AI%2FML)+%40+VIT" alt="Typing Animation" />
   </a>
 
-  <!-- 3. Pixel Coding GIF Animation (From Screenshot) -->
+  <!-- 3. Pixel Coding GIF Animation -->
   <br/><br/>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Pixel Coding Animation" />
 
@@ -55,7 +55,7 @@
 #### 🧠 AI / ML & Data Science
 ![Python](https://img.shields.io/badge/Python-1f2335?style=flat-square&logo=python&logoColor=38BDF8)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1f2335?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1f2335?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1f2335?style=flat-square&logo=pandas&logoColor=150458)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-1f2335?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-1f2335?style=flat-square&logo=googlegemini&logoColor=8E7CC3)
@@ -181,7 +181,7 @@
     <img src="https://img.shields.io/badge/LeetCode-1f2335?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
   <a href="https://instagram.com/yash_srivastavaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1f2335?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
   <a href="mailto:yashshri682@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1f2335?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
