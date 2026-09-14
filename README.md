@@ -12,13 +12,13 @@
   <!-- Profile View & Status Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=yash-2808&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-    <a href="https://github.com/Yash-2808/RESUME/blob/main/Yash_Srivastava_Resume.pdf">
+    <a href="https://github.com/Yash-2808/RESUME/blob/main/Yash_Srivastava_Resume.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Resume-PDF-ff69b4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
     </a>
     <a href="mailto:yashshri682@gmail.com">
       <img src="https://img.shields.io/badge/Email-yashshri682%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/yash-srivastava">
+    <a href="https://linkedin.com/in/yash-srivastava" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
