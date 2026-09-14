@@ -141,7 +141,6 @@
 
 <div align="center">
 
-  <!-- Stats & Languages Table -->
   <table border="0">
     <tr>
       <td width="50%">
@@ -155,18 +154,15 @@
 
   <br/>
 
-  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=yash-2808&theme=tokyonight&background=0d1117&hide_border=true" width="97%" alt="GitHub Streak Stats Dark" />
 
   <br/><br/>
 
-  <!-- Snake Contribution Animation -->
   <h4>🐍 Contribution Snake Animation</h4>
   <img src="https://raw.githubusercontent.com/Yash-2808/Yash-2808/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation Dark" />
 
   <br/><br/>
 
-  <!-- Activity Graph -->
   <h4>📈 Activity Graph</h4>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-2808&theme=tokyonight&bg_color=0d1117&hide_border=true" width="97%" alt="Activity Graph" />
 
