@@ -140,11 +140,13 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yash-2808&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-2808&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
-  </p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-2808&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+
+  <img src="https://streak-stats.demolab.com/?user=yash-2808&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak Stats" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-2808&theme=tokyonight&hide_border=true" width="97%" alt="Contribution Graph" />
+
 </div>
 
 ---
