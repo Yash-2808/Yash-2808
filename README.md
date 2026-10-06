@@ -24,7 +24,7 @@
     <a href="mailto:yashshri682@gmail.com">
       <img src="https://img.shields.io/badge/Email-yashshri682%40gmail.com-f7768e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/yash-srivastava" target="_blank">
+    <a href="https://www.linkedin.com/in/yash-srivastava-20b710291/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-7dcfff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
