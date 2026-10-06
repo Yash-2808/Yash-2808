@@ -174,10 +174,10 @@
 ### 📬 Connect & Socials
 
 <div align="center">
-  <a href="https://linkedin.com/in/yash-srivastava" target="_blank">
+  <a href="https://www.linkedin.com/in/yash-srivastava-20b710291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1f2335?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/yash-srivastava" target="_blank">
+  <a href="https://leetcode.com/u/Yash__0803/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-1f2335?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
   <a href="https://instagram.com/yash_srivastavaa" target="_blank">
